@@ -8,7 +8,7 @@ For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
 
-![screenshot_20181116-023708](https://user-images.githubusercontent.com/33912085/48581811-dbd6ba80-e948-11e8-8f34-ef4ebf08834e.jpg | width=100)
+![screenshot_20181116-023708](https://user-images.githubusercontent.com/33912085/48581811-dbd6ba80-e948-11e8-8f34-ef4ebf08834e.jpg )
 
 
 Simulate for Android
