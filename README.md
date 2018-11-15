@@ -9,8 +9,8 @@ For help getting started with Flutter, view our online
 
 
 
+![image](https://user-images.githubusercontent.com/33912085/48581397-b72e1300-e947-11e8-9f46-34c7babb855c.png)
 
-        flutter-chat-app/screenshots/flutter_chat_app_gif.gif
       
 
 Simulate for Android
