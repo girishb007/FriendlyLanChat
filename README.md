@@ -22,7 +22,7 @@ Check out Flutter’s online documentation for help getting start with your Flut
 
 
 
-![screenshot_20181116-023708](https://user-images.githubusercontent.com/33912085/48581811-dbd6ba80-e948-11e8-8f34-ef4ebf08834e.jpg)
+![screenshot_20181116-023708](https://user-images.githubusercontent.com/33912085/48581811-dbd6ba80-e948-11e8-8f34-ef4ebf08834e.jpg | width=100)
 
 
 You can check out the corresponding Google code lab ---  https://codelabs.developers.google.com/codelabs/flutter/index.html?index=..%2F..index#8 ....
