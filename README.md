@@ -9,9 +9,12 @@ For help getting started with Flutter, view our online
 
 
 
+
 Simulate for Android
+
 Make sure you have an Android emulator installed and running.
 Run the following command in your terminal.
+
 $ flutter run
 
 
